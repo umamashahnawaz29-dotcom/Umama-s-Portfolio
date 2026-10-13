@@ -1,0 +1,43 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.accent-text {
+    color: #bb86fc;
+}
+
+.my-card {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+.skill-box {
+    background-color: #2d2d2d;
+    color: #bb86fc;
+    padding: 8px 18px;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 6px;
+    font-weight: bold;
+}
+
+.btn-purple {
+    background-color: #bb86fc;
+    color: #121212;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 10px 25px;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.btn-purple:hover {
+    background-color: #9965f4;
+    color: #ffffff;
+}
